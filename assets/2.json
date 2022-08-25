@@ -1,0 +1,20 @@
+{
+  "name": "Nice02",
+  "symbol": "averynice",
+  "description": "a very nice collection.",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FFXecSQrQvUgnQPF3p6bthqpdirabFGNe5WTmbUMBNMn",
+        "share": 100
+      }
+    ]
+  }
+}
